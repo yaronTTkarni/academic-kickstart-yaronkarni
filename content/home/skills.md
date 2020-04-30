@@ -15,21 +15,32 @@ subtitle = ""
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
 
 [[feature]]
-  icon = "r-project"
+  icon = "fa-java"
   icon_pack = "fab"
-  name = "R"
+  name = "Java"
+  description = "100%"
+  
+[[feature]]
+  icon = "fa-pyhton"
+  icon_pack = "fab"
+  name = "Python"
+  description = "90%"  
+  
+[[feature]]
+  icon = "fa-aws"
+  icon_pack = "fab"
+  name = "AWS Amazon Cloud"
   description = "90%"
-  
-[[feature]]
-  icon = "chart-line"
-  icon_pack = "fas"
-  name = "Statistics"
-  description = "100%"  
-  
-[[feature]]
-  icon = "camera-retro"
-  icon_pack = "fas"
-  name = "Photography"
-  description = "10%"
 
+[[feature]]
+  icon = "fa-bezier-curve"
+  icon_pack = "fas"
+  name = "Design Pattern"
+  description = "100%"
+  
+[[feature]]
+  icon = "fas fa-database"
+  icon_pack = "fas"
+  name = "Data Base"
+  description = "relational, none relational, architecture and design, development, performance tuning, db like: sql server, oracle, db2, postgress, mysql, redis, hadoop, hbase, vertica, mongo, dynamo, rds, elastic cache"
 +++

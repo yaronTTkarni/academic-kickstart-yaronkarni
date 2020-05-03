@@ -29,15 +29,21 @@ organizations:
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 interests:
+- Architecture & Principles
+- Backend
+- Frontend
 - Micro Services
 - Cloud
 - Big Data
 - Automation & Testing
 - Devops
 - Data Bases
+- Devops
 - Lean
 - Agile
-- Architecture & Principles
+- Performance Tuning
+- Learn of new technologies and work methods
+
 
 
 education:
@@ -74,20 +80,20 @@ email: "yaron.karni@gmail.com"
 
 ---
 
-20 years of development, architecture and management experience,building enterprise products in various domains, such as billing,mobile advertising, workplace applications, contact center, andcommunications.
+20 years of development, architecture, and management experience, building enterprise products in various domains, such as billing, mobile advertising, workplace applications, contact center, and communications.
 
-As Dev manager, Setup the innovation center at ECI under CTO, leads the architecture, development and the quality processes in theCTO innovation group, improve processes cross all ECI (enterprisecompany), leads the dev of the network lab micro services family(private open-source), assimilate bitbucket cross all ECI, setup devop's ci/cd cross all eci, develop and leads the unified pipelinebased on jenkins cross eci, improve quality assurance lean on ci/cdprocesses and setup quality development methodology.
+As Dev manager, Setup the innovation center at ECI under CTO, leads the architecture, development and the quality processes in the CTO innovation group, improve processes cross all ECI (enterprise company), leads the dev of the network lab micro services family(private open-source), assimilate bitbucket cross all ECI, setup DevOps ci/cd cross all eci, develop and leads the unified pipeline based on jenkins cross eci, improve quality assurance lean on ci/cd processes and setup quality development methodology.
 
-Turn a group of researchers (with no background ) to be a developer in 2 langs (java, python), use of design pattern, write SDD, do codereview, write quality (unit test and component test).
+Turn a group of researchers (with no background ) to be a developer in 2 langs (java, python), use of design pattern, write SDD, do code review, write quality (unit test and component test).
 
-Leads the teams to develop with multilingual, python, java, nodejsand intend to adopt more language as soon, like c and c++.
-Leads POCs over AWS, automate entire IaaS and monitoringprocess use of boto3.
-I was part of the small group of engineers that set up and develop the first SaaS contact center at NICE on AWS.
+Leads the teams to develop with multilingual, python, java, nodejs and intend to adopt more language as soon, like c and c++. Leads POCs over AWS, automate entire IaaS and monitoring process use of boto3. I was part of the small group of engineers that set up and develop the first SaaS contact center at NICE on AWS.
 
-Develop & Architecture of SaaS cloud use of AWS components.I was involved in ten's of technology projects in the past, a widerange of technologies, language, different domains, and challenges mng team to adopt new tech, like aws, data storage, db's, new language and so forthAdhere in excellence, developers in my group do design, lean ondesign pattern, ERD, BDD, design review, code with high automatedquality assurance.
+Develop & Architecture of SaaS cloud use of AWS components.
 
-As an arc, I am AWS associate Arc, Many years experience withAWS architecture (5+), IaaS, PaaS, script, API, boto3, lambda, cloudformation, security and so forth.
+I was involved in ten’s of technology projects in the past, a wide range of technologies, language, different domains, and challenges management team to adopt new tech, like aws, data storage, DB's, new language and so forth, developers in my group do design, lean on design pattern, ERD, BDD, design review, code with high automated quality assurance.
 
-At amobee i led entire amobee architecture, in charge of the transition of entire Amobee products from the C# and Windows platform to Java andLinux platform, Leads the projects from scratch (required reverseengineering) till the delivery to Vodafone globally and Telefonica globally. 
+As an architect, I am AWS associate Arc, Many years experience with AWS architecture (5+), IaaS, PaaS, script, API, boto3, lambda, cloud formation, security, ecs, docker, and so forth.
 
-Also worked witha data lake of TB (10+ years ago), this requires us to adopt new code paradigm, open-source and tools that will help us engage with it,apply ci/cd, QA automation, architecture & management of MMS and SMS server (from scratch) for Globecompany
+At amobee, I led entire amobee architecture, in charge of the transition of entire Amobee products from the C# and Windows platform to Java and Linux platform, Leads the projects from scratch (required reverse engineering) till the delivery to Vodafone globally and Telefonica globally.
+
+Worked with data lake of TB (10+ years ago), this requires us to adopt new code paradigm, open-source and tools that will help us engage with it, apply ci/cd, QA automation, architecture & management of MMS and SMS server (from scratch) for Globe company

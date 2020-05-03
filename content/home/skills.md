@@ -15,6 +15,42 @@ subtitle = ""
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
 
 [[feature]]
+  icon = "fa-chart-network"
+  icon_pack = "fal"
+  name = "Distributed Application"
+  description = "100%"
+
+[[feature]]
+  icon = "fa-sitemap" 
+  icon_pack = "fas"
+  name = "Architecture & Design"
+  description = "100%"
+
+[[feature]]
+  icon = "fa-sign-out-alt" 
+  icon_pack = "fas"
+  name = "Product Leading Development"
+  description = "100%"
+
+[[feature]]
+  icon = "fa-water" 
+  icon_pack = "fas"
+  name = "Agile"
+  description = "100%"
+  
+[[feature]]
+  icon = "fa-cloudscale"
+  icon_pack = "fab"
+  name = "High Scale and Optimized Solution"
+  description = "100%"
+
+[[feature]]
+  icon = "fa-microsoft" 
+  icon_pack = "fab"
+  name = "Micro services"
+  description = "100%"
+
+[[feature]]
   icon = "fa-java"
   icon_pack = "fab"
   name = "Java"
@@ -41,6 +77,6 @@ subtitle = ""
 [[feature]]
   icon = "fas fa-database"
   icon_pack = "fas"
-  name = "Data Base"
+  name = "Data Base's"
   description = "relational, none relational, architecture and design, development, performance tuning, db like: sql server, oracle, db2, postgress, mysql, redis, hadoop, hbase, vertica, mongo, dynamo, rds, elastic cache"
 +++

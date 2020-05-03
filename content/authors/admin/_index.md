@@ -56,8 +56,6 @@ education:
   - course: Design Pattern
     institution: Jhon Bryce
     year: 2002
-    
- and many more
 
 
 # Link to a PDF of your resume/CV from the About widget.

@@ -96,4 +96,10 @@ As an architect, I am AWS associate Arc, Many years experience with AWS architec
 
 At amobee, I led entire amobee architecture, in charge of the transition of entire Amobee products from the C# and Windows platform to Java and Linux platform, Leads the projects from scratch (required reverse engineering) till the delivery to Vodafone globally and Telefonica globally.
 
-Worked with data lake of TB (10+ years ago), this requires us to adopt new code paradigm, open-source and tools that will help us engage with it, apply ci/cd, QA automation, architecture & management of MMS and SMS server (from scratch) for Globe company
+Worked with data lake of TB (10+ years ago), this requires us to adopt new code paradigm, open-source and tools that will help us engage with it, apply ci/cd, QA automation, architecture & management of MMS and SMS server (from scratch) for Globe company.
+
+My romance with posts was started on 2007, but after some years i stopped updating the site, during the time, I used excellent pages like https://stackoverflow.com/, https://www.baeldung.com/ and so forth, but i found myself most of the time with lack of e2e solution, or the description was too short or kind of summary.
+
+The idea of this site, First, to share with you my archtieture & design knowledge, assemble things together and make vision alive, i am not going to replace https://stackoverflow.com/ but i adhere to cover aspects that i deal with e2e.
+
+If you have comments, insight, share with me, email to yaron.karni@gmail.com and i will be glad to assist.

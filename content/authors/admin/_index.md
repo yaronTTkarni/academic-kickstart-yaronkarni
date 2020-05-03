@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Developer Manager and Chief Architect
+role: Development Manager and Chief Architect
 
 # Organizations/Affiliations
 organizations:
@@ -37,6 +37,7 @@ interests:
 - Data Bases
 - Lean
 - Agile
+- Architecture & Principles
 
 
 education:
@@ -56,6 +57,9 @@ education:
   - course: Design Pattern
     institution: Jhon Bryce
     year: 2002
+  - course: Concurrent, Parallel and Distributing
+    institution: RICE
+    year: 2017
 
 
 # Link to a PDF of your resume/CV from the About widget.

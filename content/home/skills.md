@@ -39,7 +39,7 @@ subtitle = ""
   description = "100%"
   
 [[feature]]
-  icon = "fa-cloudscale"
+  icon = "fa-microsoft"
   icon_pack = "fab"
   name = "High Scale and Optimized Solution"
   description = "100%"
